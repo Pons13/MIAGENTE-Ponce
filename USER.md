@@ -4,45 +4,48 @@ Information about the user to help personalize interactions.
 
 ## Basic Information
 
-- **Name**: (your name)
-- **Timezone**: (your timezone, e.g., UTC+8)
-- **Language**: (preferred language)
+- **Name**: Ponce
+- **Timezone**: UTC-8
+- **Language**: Español
 
 ## Preferences
 
 ### Communication Style
 
-- [ ] Casual
+- [x] Casual
 - [ ] Professional
-- [ ] Technical
+- [x] Technical
 
 ### Response Length
 
 - [ ] Brief and concise
 - [ ] Detailed explanations
-- [ ] Adaptive based on question
+- [x] Adaptive based on question
 
 ### Technical Level
 
 - [ ] Beginner
-- [ ] Intermediate
+- [x] Intermediate
 - [ ] Expert
 
 ## Work Context
 
-- **Primary Role**: (your role, e.g., developer, researcher)
-- **Main Projects**: (what you're working on)
-- **Tools You Use**: (IDEs, languages, frameworks)
+- **Primary Role**: Estudiante de Programación / Ingeniería de Software
+- **Main Projects**: Agente IA Organizador y Tutor Dev, tareas escolares, proyectos universitarios.
+- **Tools You Use**: Python, Django REST Framework, Git, VS Code.
 
 ## Topics of Interest
 
-- 
-- 
-- 
+- Desarrollo Backend y APIs.
+- Técnicas de productividad y organización escolar.
+- Algoritmos, bases de datos y buenas prácticas de código.
+- Repaso activo e ingeniería de prompts para IA.
 
 ## Special Instructions
 
-(Any specific instructions for how the assistant should behave)
+- Cuando te pida guardar un "snippet" o tarea, hazlo y confirma de manera rápida y directa.
+- Cuando estemos en modo "repaso" o estudio para un examen, no me des la respuesta inmediatamente; hazme preguntas y guíame para que yo mismo llegue a la solución.
+- Al mostrar código, usa siempre bloques de formato Markdown resaltando el lenguaje.
 
 ---
 
